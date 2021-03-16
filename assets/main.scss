@@ -1,0 +1,41 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+	background-color:rgb(189, 32, 49 );
+	color : white;
+}
+
+.site-title, .site-title:visited , .site-nav .page-link  {
+	color : white;
+}
+
+.site-title:hover , .site-nav .page-link:hover  {
+	text-decoration: None;
+	color : #D3D3D3;
+}
+
+.site-nav {
+	background-color:rgb(189, 32, 49 );
+}
+
+
+body {
+	font :  300 16px 'Roboto', BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	line-height: 1.42857143;
+}
+
+h1 {
+	color : rgb(189, 32, 49 );
+}
+
+h2, h3, h4, h5 {
+	font-weight: bold;
+}
+
+div.wrapper{
+	max-width: 85%;
+}
+
