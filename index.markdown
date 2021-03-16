@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Overview
 
 ## What is this course about ?
 This course aims to provides an introduction to machine learning both from a theoretical and from a practical perspective. The following foundation topics are covered : supervised learning, unsupervised learning, learning theory. The course also discusses how to conduct real-world machine learning projects.
