@@ -8,9 +8,9 @@ Updated lecture slides, assignments will be posted here shortly before each lect
 
 | Date        | Events      | Description |
 | ----------- | ----------- | ----------- |
-| Mar 17 | Lecture 1       |  General introduction [[slides]({{site.url}}/assets/Introduction_au_machine_learning.pptx)] <br/> Big data [[slides]({{site.url}}/assets/BIG_Data.pptx)] <br/>Introduction [[slides]({{site.url}}/assets/Introduction.pdf)] <br/> Linear regression [[slides]({{site.url}}/assets/Linear_regression.pdf)] |
+| Mar 17 | Lecture 1       |  General introduction [[slides]({{site.baseurl}}/assets/Introduction_au_machine_learning.pptx)] <br/> Big data [[slides]({{site.baseurl}}/assets/BIG_Data.pptx)] <br/>Introduction [[slides]({{site.baseurl}}/assets/Introduction.pdf)] <br/> Linear regression [[slides]({{site.baseurl}}/assets/Linear_regression.pdf)] |
 | Mar 17 | Assingment 1      |  Due Monday Mar 22 at 11:59pm|
 | Mar 24 | Lecture 2       |  Unconstrained optimization <br/> Ridge regression <br/> Lasso regression|
 | Mar 24 | Assingment 2      |  Due Monday Mar 29 at 11:59pm|
-| Mar 31 | Lecture 3       |  Model assesment and selection <br/> Machine learning projects|
+| Mar 31 | Lecture 3       |  Model assesment and selection <br/> Machine learning projects| 
 
