@@ -39,3 +39,5 @@ div.wrapper{
 	max-width: 85%;
 }
 
+table tr:nth-child(even) { background-color: white; }
+table tr:nth-child(odd) { background-color: white; }
