@@ -20,4 +20,4 @@ Your final grade will be determined by the grades you receive on assignments, on
 
 ### Assignments
 
-Ny mpianatra tsirairay dia manana telo andro avy azony ampiasaina amin'ny famerenana tara ny devoirs. Rehefa lany ireo telo andro ireo dia miala 20% isaky ny andro tara ny note. Vao manitsaka ny andro mandrapahatapitr'iny andro iny dia no andro iray .
+Ny mpianatra tsirairay dia manana telo andro avy azony ampiasaina amin'ny famerenana tara ny devoirs. Rehefa lany ireo telo andro ireo dia miala 20% isaky ny andro tara ny note. Vao manitsaka ny andro mandrapahatapitr'iny andro iny no andro iray .
