@@ -12,7 +12,6 @@ Updated lecture slides, assignments will be posted here shortly before each lect
 | Mar 17 | Tutorial 1      |  Python basics[^1]  [[notebook][02_Python]]  <br/> Numpy basics[^1]  [[notebook][03_NumPy]]|
 | Mar 17 | Assignment 1     |  Due Monday Mar 22 at 11:59pm|
 |  | Lecture 2       |  Ridge regression [[slides][Ridge_regression]] <br/> Lasso regression [[slides][Lasso_regression]]|
-|  | Assignment 2      |  Due Monday Mar 29 at 11:59pm|
 |  | Lecture 3       |  Unconstrained optimization <br/> Logistic regression| 
 |  | Lecture 4       |  Model assesment and selection <br/> Machine learning projects| 
 |  | Assignment 4      | K nearest neighbor (KNN) classification|
