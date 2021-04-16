@@ -11,10 +11,17 @@ Updated lecture slides, assignments will be posted here shortly before each lect
 | Mar 17 | Lecture 1       |  General introduction [[slides][Introduction_au_machine_learning]] <br/> Big data [[slides][BIG_Data]] <br/>Introduction [[slides][Introduction]] <br/> Linear regression [[slides][Linear_regression]] |
 | Mar 17 | Tutorial 1      |  Python basics[^1]  [[notebook][02_Python]]  <br/> Numpy basics[^1]  [[notebook][03_NumPy]]|
 | Mar 17 | Assignment 1     |  Due Monday Mar 22 at 11:59pm|
-| Mar 24 | Lecture 2       |  Ridge regression [[slides][Ridge_regression]] <br/> Lasso regression [[slides][Lasso_regression]]|
-| Mar 24 | Assignment 2      |  Due Monday Mar 29 at 11:59pm|
-| Mar 31 | Lecture 3       |  Unconstrained optimization <br/>| 
-| Apr 7 | Lecture 4       |  Model assesment and selection <br/> Machine learning projects| 
+|  | Lecture 2       |  Ridge regression [[slides][Ridge_regression]] <br/> Lasso regression [[slides][Lasso_regression]]|
+|  | Assignment 2      |  Due Monday Mar 29 at 11:59pm|
+|  | Lecture 3       |  Unconstrained optimization <br/> Logistic regression| 
+|  | Lecture 4       |  Model assesment and selection <br/> Machine learning projects| 
+|  | Assignment 4      | K nearest neighbor (KNN) classification|
+|  | Lecture 5       |  Gaussian discriminant analysis <br/> Naive Bayes| 
+|  | Lecture 6       |  Principal component analysis <br/> t-SNE  <br/> k-means clustering| 
+|  | Lecture 7       |  Linear support vector machines  <br/>  Kernel machines | 
+|  | Lecture 8       |  Kernel machines <br/> Gaussian processes| 
+|  | Lecture 9       |  Mixture of Gaussians <br/> Factor analysis|
+|  | Lecture 10       |  Decision trees  <br/> Ensemble learning, bagging,boosting |
 
 
 [Introduction_au_machine_learning]: https://ncarraz.github.io/ml-course/assets/Introduction_au_machine_learning.pptx
