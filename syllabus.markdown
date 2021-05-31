@@ -4,33 +4,52 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-Updated lecture slides, assignments will be posted here shortly before each lecture. This schedule is subject to change according to the pace of the class.
+Updated lecture slide, assignments will be posted here shortly before each lecture. This schedule is subject to change according to the pace of the class.
 
-| Date        | Events      | Description |
+| Date        | Event      | Description |
 | ----------- | ----------- | ----------- |
-| Mar 17 | Lecture 1       |  General introduction [[slides][Introduction_au_machine_learning]] <br/> Big data [[slides][BIG_Data]] <br/>Introduction [[slides][Introduction]] <br/> Linear regression [[slides][Linear_regression]] |
+| Mar 17 | <strong><b>Lecture 1</b> </strong>      |  General introduction [[slide][Introduction_au_machine_learning]] <br/> Big data [[slide][BIG_Data]] <br/>Introduction [[slide][Introduction]] <br/> Linear regression [[slide][Linear_regression]] |
 | Mar 17 | Tutorial 1      |  Python basics[^1]  [[notebook][02_Python]]  <br/> Numpy basics[^1]  [[notebook][03_NumPy]]|
 | Mar 17 | Assignment 1     |  Due Monday Mar 22 at 11:59pm|
-|  | Lecture 2       |  Ridge regression [[slides][Ridge_regression]] <br/> Lasso regression [[slides][Lasso_regression]]|
-|  | Lecture 3       |  Unconstrained optimization <br/> Logistic regression| 
-|  | Lecture 4       |  Model assesment and selection <br/> Machine learning projects| 
-|  | Assignment 4      | K nearest neighbor (KNN) classification|
-|  | Lecture 5       |  Gaussian discriminant analysis <br/> Naive Bayes| 
-|  | Lecture 6       |  Principal component analysis <br/> t-SNE  <br/> k-means clustering| 
-|  | Lecture 7       |  Linear support vector machines  <br/>  Kernel machines | 
-|  | Lecture 8       |  Kernel machines <br/> Gaussian processes| 
-|  | Lecture 9       |  Mixture of Gaussians <br/> Factor analysis|
-|  | Lecture 10       |  Decision trees  <br/> Ensemble learning, bagging,boosting |
+|  Jun 2| <strong><b>Lecture 2 </b></strong>        |  Ridge regression [[slide][Ridge_regression]] <br/> Lasso regression [[slide][Lasso_regression]]|
+| Jun 2| Tutorial 2      |  Linear algebra review |
+| Jun 2| Assignment 2      |  Due Monday Jun 7 at 11:59pm |
+|  | <strong><b>Lecture 3 </b></strong>        |  Logistic regression  <!---[[slide][Logistic_regression]] -->| 
+| | Tutorial 3      |  Convex optimization|
+|  | <strong><b>Lecture 4 </b></strong>        |  Model assesment and selection <!---[[slide][Model_selection]] --> <br/> Machine learning projects <!---[[slide][Structure_d_un_projet_de_Machine_Learning]] -->| 
+| | Tutorial 4      |  Pandas basics[^1] <!--- [[notebook][Pandas]] --><br/> Matplotlib <br/> Seaborn|
+|  | Assignment       | K nearest neighbor (KNN) classification|
+|  | <strong><b>Lecture 5 </b></strong>        |  Gaussian discriminant analysis <!---[[slide][gaussian_discriminant_analysis]]--> <br/> Naive Bayes <!---[[slide][Naive_bayes]] -->| 
+| | Tutorial 5      |  Common probability distributions review|
+|  | <strong><b>Lecture 6 </b></strong>        |  Principal component analysis <!---[[slide][PCA]]--> <br/> t-SNE  <br/> Clustering <!---[[slide][Clustering]]-->| 
+|  | <strong><b>Lecture 7 </b></strong>       |  Linear support vector machines <!---[[slide][Linear_svm]]-->| 
+|  | <strong><b>Lecture 8 </b></strong>        |  Kernel machines <!---[[slide][Kernel_machines]]--><br/> Gaussian processes <!---[[slide][Gaussian_processes]] -->| 
+|  | <strong><b>Lecture 9 </b></strong>        |  Mixture of Gaussians <!---[[slide][Gaussian_mixtures]]--> <br/> Factor analysis|
+|  | <strong><b>Lecture 10 </b></strong>        |  Decision trees <!---[[slide][Decision_trees]]--> <br/> Ensemble learning, bagging, random forests<!--- [[slide][Ensemble_learning]] --> <br/> Boosting <!---[[slide][Boosting]]-->|
 
 
 [Introduction_au_machine_learning]: https://ncarraz.github.io/ml-course/assets/Introduction_au_machine_learning.pptx
 [BIG_Data]: https://ncarraz.github.io/ml-course/assets/BIG_Data.pptx
-[Introduction]: https://ncarraz.github.io/ml-course/assets/Introduction.pdf
-[Linear_regression]: https://ncarraz.github.io/ml-course/assets/Linear_regression.pdf
+[Introduction]: https://ncarraz.github.io/ml-course/assets/ML_introduction.pdf
+[Linear_regression]: https://ncarraz.github.io/ml-course/assets/linear_regression.pdf
 [02_Python]: https://colab.research.google.com/github/GokuMohandas/madewithml/blob/main/notebooks/02_Python.ipynb
 [03_NumPy]: https://colab.research.google.com/github/GokuMohandas/madewithml/blob/main/notebooks/03_NumPy.ipynb
-[Ridge_regression]: https://ncarraz.github.io/ml-course/assets/Ridge_regression.pdf
-[Lasso_regression]: https://ncarraz.github.io/ml-course/assets/Lasso_regression.pdf
+[Pandas]:https://madewithml.com/courses/basics/pandas/
+[Ridge_regression]: https://ncarraz.github.io/ml-course/assets/ridge.pdf
+[Lasso_regression]: https://ncarraz.github.io/ml-course/assets/lasso.pdf
 [^1]: from [Made With ML](https://madewithml.com)
-
+[Logistic_regression]: https://ncarraz.github.io/ml-course/assets/logistic_regression.pdf
+[gaussian_discriminant_analysis]: https://ncarraz.github.io/ml-course/assets/gaussian_discriminant_analysis.pdf
+[Structure_d_un_projet_de_Machine_Learning]: https://ncarraz.github.io/ml-course/assets/Structure_d_un_projet_de_Machine_Learning.pptx
+[Naive_bayes]: https://ncarraz.github.io/ml-course/assets/naive_bayes.pdf
+[PCA]: https://ncarraz.github.io/ml-course/assets/pca.pdf
+[Clustering]: https://ncarraz.github.io/ml-course/assets/clustering.pdf
+[Gaussian_mixtures]: https://ncarraz.github.io/ml-course/assets/gaussian_mixtures.pdf
+[Linear_svm]: https://ncarraz.github.io/ml-course/assets/linear_svm.pdf
+[Kernel_machines]: https://ncarraz.github.io/ml-course/assets/kernel_machines.pdf
+[Gaussian_processes]: https://ncarraz.github.io/ml-course/assets/gaussian_processes.pdf
+[Model_selection]: https://ncarraz.github.io/ml-course/assets/model_selection.pdf
+[Decision_trees]: https://ncarraz.github.io/ml-course/assets/decision_trees.pdf
+[Ensemble_learning]: https://ncarraz.github.io/ml-course/assets/ensemble_learning.pdf
+[Boosting]: https://ncarraz.github.io/ml-course/assets/boosting.pdf
 
