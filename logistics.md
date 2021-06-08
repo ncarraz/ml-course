@@ -14,8 +14,7 @@ Your final grade will be determined by the grades you receive on assignments, on
 
 | Activities     | Percentages |
 | ----------- | ----------- |
-| Assignments      | 30%       |
-| Quizzes   | 20%        |
+| Assignments      | 50%       |
 | Final projetcs   | 50%        |
 
 ### Assignments

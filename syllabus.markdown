@@ -11,9 +11,9 @@ Updated lecture slide, assignments will be posted here shortly before each lectu
 | Mar 17 | <strong><b>Lecture 1</b> </strong>      |  General introduction [[slide][Introduction_au_machine_learning]] <br/> Big data [[slide][BIG_Data]] <br/>Introduction [[slide][Introduction]] <br/> Linear regression [[slide][Linear_regression]] |
 | Mar 17 | Tutorial 1      |  Python basics[^1]  [[notebook][02_Python]]  <br/> Numpy basics[^1]  [[notebook][03_NumPy]]|
 | Mar 17 | Assignment 1     |  Due Monday Mar 22 at 11:59pm|
-|  Jun 2| <strong><b>Lecture 2 </b></strong>        |  Ridge regression [[slide][Ridge_regression]] <br/> Lasso regression [[slide][Lasso_regression]]|
-| Jun 2| Tutorial 2      |  Linear algebra review |
-| Jun 2| Assignment 2      |  Due Monday Jun 7 at 11:59pm |
+|  Jun 9| <strong><b>Lecture 2 </b></strong>        |  Ridge regression [[slide][Ridge_regression]] <br/> Lasso regression [[slide][Lasso_regression]]|
+| Jun 9| Tutorial 2      |  Linear algebra review |
+| Jun 9| Assignment 2      |  Due Monday Jun 14 at 11:59pm |
 |  | <strong><b>Lecture 3 </b></strong>        |  Logistic regression  <!---[[slide][Logistic_regression]] -->| 
 | | Tutorial 3      |  Convex optimization|
 |  | <strong><b>Lecture 4 </b></strong>        |  Model assesment and selection <!---[[slide][Model_selection]] --> <br/> Machine learning projects <!---[[slide][Structure_d_un_projet_de_Machine_Learning]] -->| 
