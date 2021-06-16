@@ -14,8 +14,10 @@ Updated lecture slide, assignments will be posted here shortly before each lectu
 |  Jun 9| <strong><b>Lecture 2 </b></strong>        |  Ridge regression [[slide][Ridge_regression]] <br/> Lasso regression [[slide][Lasso_regression]]|
 | Jun 9| Tutorial 2      |  Linear algebra review |
 | Jun 9| Assignment 2      |  Due Monday Jun 14 at 11:59pm |
-|  | <strong><b>Lecture 3 </b></strong>        |  Logistic regression  <!---[[slide][Logistic_regression]] -->| 
-| | Tutorial 3      |  Convex optimization|
+ <!---[[slide][Logistic_regression]] -->| 
+| Jun 16| Tutorial 3      |  Convex optimization|
+| Jun 16| Assignment 3      |  Due Monday Jun 14 at 11:59pm |
+|  | <strong><b>Lecture 3 </b></strong>        |  Logistic regression 
 |  | <strong><b>Lecture 4 </b></strong>        |  Model assesment and selection <!---[[slide][Model_selection]] --> <br/> Machine learning projects <!---[[slide][Structure_d_un_projet_de_Machine_Learning]] -->| 
 | | Tutorial 4      |  Pandas basics[^1] <!--- [[notebook][Pandas]] --><br/> Matplotlib <br/> Seaborn|
 |  | Assignment       | K nearest neighbor (KNN) classification|
