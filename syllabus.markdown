@@ -33,7 +33,7 @@ Updated lecture slide, assignments will be posted here shortly before each lectu
 [Introduction_au_machine_learning]: https://ncarraz.github.io/ml-course/assets/Introduction_au_machine_learning.pptx
 [BIG_Data]: https://ncarraz.github.io/ml-course/assets/BIG_Data.pptx
 [Introduction]: https://ncarraz.github.io/ml-course/assets/ML_introduction.pdf
-[Linear_regression]: https://ncarraz.github.io/ml-course/assets/linear_regression.pdf
+[Linear_regression]: https://ncarraz.github.io/ml-course/assets/Linear_regression.pdf
 [02_Python]: https://colab.research.google.com/github/GokuMohandas/madewithml/blob/main/notebooks/02_Python.ipynb
 [03_NumPy]: https://colab.research.google.com/github/GokuMohandas/madewithml/blob/main/notebooks/03_NumPy.ipynb
 [Pandas]:https://madewithml.com/courses/basics/pandas/
