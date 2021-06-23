@@ -14,10 +14,10 @@ Updated lecture slide, assignments will be posted here shortly before each lectu
 |  Jun 9| <strong><b>Lecture 2 </b></strong>        |  Ridge regression [[slide][Ridge_regression]] <br/> Lasso regression [[slide][Lasso_regression]]|
 | Jun 9| Tutorial 2      |  Linear algebra review |
 | Jun 9| Assignment 2      |  Due Monday Jun 14 at 11:59pm |
- <!---[[slide][Logistic_regression]] -->| 
-| Jun 16| Tutorial 3      |  Convex optimization|
-| Jun 16| Assignment 3      |  Due Monday Jun 14 at 11:59pm |
-|  | <strong><b>Lecture 3 </b></strong>        |  Logistic regression 
+| Jun 16| Tutorial 3      |  Convex optimization <br/> [[Introduction][Convex_optimization_overview]], [[Convex optimization problems][Convex_optimization_problem]] <br/> [[Convex functions][Convex_functions]],  [[Disciplined convex programming][dcp]] <br/>  [[Duality][duality]],  [[Unconstrained minimization][unconstrained_minimization]]|
+| Jun 16| Assignment 3      |  Due Monday Jun 28 at 11:59pm |
+|  Jun 23| <strong><b>Lecture 3 </b></strong>        |  Logistic regression [[slide][Logistic_regression]] 
+| Jun 23| Assignment 4      |  Due Monday Jun 14 at 11:59pm |
 |  | <strong><b>Lecture 4 </b></strong>        |  Model assesment and selection <!---[[slide][Model_selection]] --> <br/> Machine learning projects <!---[[slide][Structure_d_un_projet_de_Machine_Learning]] -->| 
 | | Tutorial 4      |  Pandas basics[^1] <!--- [[notebook][Pandas]] --><br/> Matplotlib <br/> Seaborn|
 |  | Assignment       | K nearest neighbor (KNN) classification|
@@ -54,4 +54,9 @@ Updated lecture slide, assignments will be posted here shortly before each lectu
 [Decision_trees]: https://ncarraz.github.io/ml-course/assets/decision_trees.pdf
 [Ensemble_learning]: https://ncarraz.github.io/ml-course/assets/ensemble_learning.pdf
 [Boosting]: https://ncarraz.github.io/ml-course/assets/boosting.pdf
-
+[Convex_optimization_overview]:https://ncarraz.github.io/ml-course/assets/Convex_optimization_overview.pdf
+[Convex_optimization_problem]:https://ncarraz.github.io/ml-course/assets/Convex_optimization_problem.pdf
+[Convex_functions]:https://ncarraz.github.io/ml-course/assets/Convex_functions.pdf
+[dcp]:https://ncarraz.github.io/ml-course/assets/dcp.pdf
+[duality]:https://ncarraz.github.io/ml-course/assets/duality.pdf
+[unconstrained_minimization]:https://ncarraz.github.io/ml-course/assets/unconstrained_minimization.pdf
