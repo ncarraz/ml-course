@@ -20,7 +20,7 @@ Updated lecture slide, assignments will be posted here shortly before each lectu
 |  Jun 30| <strong><b>Lecture 4 </b></strong>        |  Model assesment and selection [[slide][Model_selection]]  <br/> Machine learning projects [[slide][Structure_d_un_projet_de_Machine_Learning]] | 
 | Jun 30| Tutorial 4      |  Pandas basics[^1]  [[notebook][Pandas]] <br/> Matplotlib <br/> Seaborn|
 |  Jun 30| Assignment   4    | Due Tuesday Jul 5 at 11:59pm|
-|  | <strong><b>Lecture 5 </b></strong>        |  Gaussian discriminant analysis <!---[[slide][gaussian_discriminant_analysis]]--> <br/> Naive Bayes <!---[[slide][Naive_bayes]] -->| 
+|  Jul 5| <strong><b>Lecture 5 </b></strong>        |  Gaussian discriminant analysis [[slide][gaussian_discriminant_analysis]] <br/> Naive Bayes [[slide][Naive_bayes]]| 
 | | Tutorial 5      |  Common probability distributions review|
 |  | <strong><b>Lecture 6 </b></strong>        |  Principal component analysis <!---[[slide][PCA]]--> <br/> t-SNE  <br/> Clustering <!---[[slide][Clustering]]-->| 
 |  | <strong><b>Lecture 7 </b></strong>       |  Linear support vector machines <!---[[slide][Linear_svm]]-->| 
