@@ -22,7 +22,7 @@ Updated lecture slide, assignments will be posted here shortly before each lectu
 |  Jun 30| Assignment   4    | Due Tuesday Jul 5 at 11:59pm|
 |  Jul 5| <strong><b>Lecture 5 </b></strong>        |  Gaussian discriminant analysis [[slide][gaussian_discriminant_analysis]] <br/> Naive Bayes [[slide][Naive_bayes]]| 
 | Jul 5| Tutorial 5      |  Common probability distributions review|
-|  | <strong><b>Lecture 6 </b></strong>        |  Principal component analysis <!---[[slide][PCA]]--> <br/> t-SNE  <br/> Clustering <!---[[slide][Clustering]]-->| 
+|  Jul 14| <strong><b>Lecture 6 </b></strong>        |  Principal component analysis [[slide][PCA]] <br/> t-SNE  <br/> Clustering [[slide][Clustering]]| 
 |  | <strong><b>Lecture 7 </b></strong>       |  Linear support vector machines <!---[[slide][Linear_svm]]-->| 
 |  | <strong><b>Lecture 8 </b></strong>        |  Kernel machines <!---[[slide][Kernel_machines]]--><br/> Gaussian processes <!---[[slide][Gaussian_processes]] -->| 
 |  | <strong><b>Lecture 9 </b></strong>        |  Mixture of Gaussians <!---[[slide][Gaussian_mixtures]]--> <br/> Factor analysis|
