@@ -27,8 +27,10 @@ Updated lecture slide, assignments will be posted here shortly before each lectu
 |  Jul 14| <strong><b>Lecture 7 </b></strong>       |  Linear support vector machines [[slide][Linear_svm]]| 
 |  Jul 21| Assignment   6    | Due Monday Jul 26 at 11:59pm|
 |  Jul 28| <strong><b>Lecture 8 </b></strong>        |  Kernel machines [[slide][Kernel_machines]]<br/> Gaussian processes [[slide][Gaussian_processes]] | 
-|  | <strong><b>Lecture 9 </b></strong>        |  Mixture of Gaussians <!---[[slide][Gaussian_mixtures]]--> <br/> Factor analysis|
-|  | <strong><b>Lecture 10 </b></strong>        |  Decision trees <!---[[slide][Decision_trees]]--> <br/> Ensemble learning, bagging, random forests<!--- [[slide][Ensemble_learning]] --> <br/> Boosting <!---[[slide][Boosting]]-->|
+|  | <strong><b>Lecture 9 </b></strong>        |  Mixture of Gaussians [[slide][Gaussian_mixtures]] <br/> Factor analysis|
+|  Aug 18| <strong><b>Lecture 10 </b></strong>        |  Decision trees [[slide][Decision_trees]] <br/> Ensemble learning, bagging, random forests [[slide][Ensemble_learning]]  <br/> Boosting [[slide][Boosting]]|
+|  Aug 18| Assignment   7    | Due Tuesday Aug 24 at 11:59pm|
+|  Aug 18| Assignment   8    | Due Tuesday Aug 24 at 11:59pm|
 
 
 [Introduction_au_machine_learning]: https://ncarraz.github.io/ml-course/assets/Introduction_au_machine_learning.pptx
